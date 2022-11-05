@@ -12,3 +12,13 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+- more command https://docs.aws.amazon.com/cdk/v2/guide/cli.html
+
+## Useful ExecutionPolicy
+
+If you cannot call cdk-cli in vsc, you can Set-ExecutionPolicy.
+
+```cmd
+Set-ExecutionPolicy -ExecutionPolicy Remotesigned -Scope CurrentUser
+```
