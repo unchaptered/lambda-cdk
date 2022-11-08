@@ -1,8 +1,8 @@
 {
-  "name": "hello-cdk",
+  "name": "lambda-cdk",
   "version": "0.1.0",
   "bin": {
-    "hello-cdk": "bin/hello-cdk.js"
+    "lambda-cdk": "bin/lambda-cdk.js"
   },
   "scripts": {
     "build": "tsc",
