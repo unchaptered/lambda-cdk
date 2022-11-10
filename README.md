@@ -1,8 +1,8 @@
-# Serverless-IaC-Prototype
+# Lambda CDK
 
 This is template repo to build Service with `AWS CDK` as IaC.<br>
 
->It doesn't contain anything about AWS Services, except AWS CDK.<br>
+> It doesn't contain anything about AWS Services, except AWS CDK.<br>
 > And AWS CDK is little dangerouse to use for AWS beginner.
 > 
 > So, If you want to use AWS IaC, please search a lot for you.
